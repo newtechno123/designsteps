@@ -1,0 +1,5 @@
+1. Create a html file
+
+2. Style using CSS style sheet
+
+3. Add Javascript code
